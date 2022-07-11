@@ -6,9 +6,10 @@
 
 ## Features
 * Uses Replit database
+* Bot status customization (text + type + status)
 * Automatically deletes data of those servers the bot is no longer on
 * Additional command: `set` if someone knowingly interupts the counter
-* Can have multiple counter channels set for a server alongwith counter limits
+* Can have multiple counter channels set for a server with limitations
 
 ## Installation
 * Copy the URL of this repo
